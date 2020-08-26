@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "Warr-script",
+    "author": "Bernkastel",
+    "description": "==",
+    "version": "1.0",
+    "options": {
+        "niceName": "Warr-script",
+        "guiName": "Warr-script"
+    }
+}
